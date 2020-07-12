@@ -1,0 +1,6 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

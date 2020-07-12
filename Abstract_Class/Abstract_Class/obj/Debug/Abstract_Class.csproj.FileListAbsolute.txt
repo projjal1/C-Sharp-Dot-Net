@@ -1,0 +1,5 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.pdb

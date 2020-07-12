@@ -1,0 +1,5 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Hello_World\Hello_World\obj\Debug\Hello_World.pdb

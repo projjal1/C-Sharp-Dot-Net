@@ -1,0 +1,5 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\One_D_Array\One_D_Array\bin\Debug\One_D_Array.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\One_D_Array\One_D_Array\bin\Debug\One_D_Array.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\One_D_Array\One_D_Array\bin\Debug\One_D_Array.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\One_D_Array\One_D_Array\obj\Debug\One_D_Array.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\One_D_Array\One_D_Array\obj\Debug\One_D_Array.pdb
