@@ -1,0 +1,6 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.csprojResolveAssemblyReference.cache
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.pdb

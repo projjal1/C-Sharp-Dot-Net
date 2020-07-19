@@ -1,0 +1,5 @@
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Delegate1\Delegate1\bin\Debug\Delegate1.exe.config
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Delegate1\Delegate1\bin\Debug\Delegate1.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Delegate1\Delegate1\bin\Debug\Delegate1.pdb
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Delegate1\Delegate1\obj\Debug\Delegate1.exe
+C:\Users\projjal\Documents\Visual Studio 2012\Projects\basic_c#_codes\Delegate1\Delegate1\obj\Debug\Delegate1.pdb
